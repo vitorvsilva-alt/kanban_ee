@@ -1,0 +1,5 @@
+io
+altair
+pandas 
+streamlit
+duckdb
